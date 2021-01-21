@@ -1,0 +1,24 @@
+.mainbody{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   font-weight: lighter;
+   background-color: rgb(112,60,35);
+   padding-left: 50px;
+   
+}
+
+body{
+    background-color: rgb(106,10,196);
+    justify-content:flex-start ;
+}
+
+.body2{
+    background-color: rgb(39, 199, 92);
+    padding-top:212px;
+}
+
+.body3{
+    background-color: rgb(112, 60, 35);
+    padding-bottom:300px;
+}
